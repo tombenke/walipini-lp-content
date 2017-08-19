@@ -1,0 +1,42 @@
+{
+    "author": "tombenke",
+    "title": "Építsünk Walipinit!",
+    "homeHeading": "Egész évben használható fóliasátor, fűtés nélkül?<br/> = Walipini",
+    "uvp": "",
+    "about": {
+        "heading": "Tradíció és korszerű technológia",
+        "text": ""
+    },
+    "services": [
+        {
+            "icon": "fa-book",
+            "heading": "Útmutató",
+            "text": "<a href=\"downloads/walipini_book.pdf\">Letölthető füzet</a> walipini tervezéséről és kivitelezéséről."
+        },
+        {
+            "icon": "fa-calculator",
+            "heading": "Szimulátor",
+            "text": "A tervezést segítő <a href=\"http://wsimu.herokuapps.com\">on-line, interaktív szimulátor</a>."
+        },
+        {
+            "icon": "fa-signal",
+            "heading": "Adatgyűjtés",
+            "text": "Adatgyűjtő és elemző hardver és szoftver.<br/>"
+        },
+        {
+            "icon": "fa-cog",
+            "heading": "Szabályozás",
+            "text": "Intelligens szabályozó és felügyeleti rendszer.<br/>"
+        }
+    ],
+    "portfolio": {
+        "heading": "Olvassa el <a href=\"downloads/walipini_book.pdf\">útmutatónkat</a>, és próbálja ki <a href=\"http://wsimu.herokuapps.com\">szimulátorunkat</a>!",
+        "callToAction": "Kezdje most!"
+    },
+    "contact" : {
+        "text": "Készen áll arra, hogy csatlakozzon projektünkhöz?<br/>Küldjön e-mailt, és kövessen minket a Facebook-on!",
+        "mail": "kertivirag@gmail.com",
+        "facebook": "https://www.facebook.com/walipini-hu/",
+        "phone": "(+??) ?????-???"
+    }
+}
