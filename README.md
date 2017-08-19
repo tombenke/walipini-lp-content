@@ -1,5 +1,5 @@
-landingpage_creative_archetype
-==============================
+walipini-lp-content
+===================
 
 This is the content of the landing page of the walipini project.
 
