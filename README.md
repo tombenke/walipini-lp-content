@@ -69,6 +69,7 @@ You can copy the whole content to the final place of deployment when you are rea
 - [mustache](https://www.npmjs.com/package/mustache)
 - [markdown](https://www.npmjs.com/package/markdown)
 - [The less CSS pre-processor](http://lesscss.org/)
+- [Google Analytics](https://analytics.google.com)
 
 ---
 

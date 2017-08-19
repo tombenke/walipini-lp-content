@@ -6,8 +6,8 @@ a páratartalom, az öntözés, azonban nagyon drágák a professzionális megol
 önellátó családi gazdaság számára.
 
 Célunk egy olyan speciális, kis költséggel megépíthető termesztő berendezés kifejlesztése,
-ami környezettudatos, alacsony energia felhasználású,
-emellett, olcsó, bárki által összeköthető, "dobozos" irányítási rendszerrel vezérelhető,
+ami környezettudatos, alacsony energia felhasználású, emellett, olcsó.
+Egy bárki által összeszerelhető irányítási rendszerrel vezérelhető,
 így, az alacsony költségszint miatt, mindenki számára elérhető lesz a technológia.
 
 Egy háztáji gazdaságban az üvegház mellett egyéb tevékenységek irányítása is igényelhet
@@ -18,9 +18,9 @@ alacsony költségű irányító-rendszer.
 
 Feladatunk egy házikerti szinten megfizethető,
 a termesztés költségeit csökkenteni képes irányító rendszer fejlesztése,
-elsődlegesen egy új, energiatakarékos, innovatív walipini technológiához.
+elsődlegesen a walipini technológiához.
 
-Közösségi feladatunknak tekintjük, hogy az informatikai rendszer által gyűjtött adatok
+Feladatunknak tekintjük, hogy az informatikai rendszer által gyűjtött adatok
 és a növénytermesztési tapasztalatok megosztásával sokak számára megismerhetővé tegyük
 a termesztési folyamatot a magvetéstől az értékesítésig.
 
