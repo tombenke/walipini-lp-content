@@ -1,5 +1,5 @@
 /*!
- *  v1.0.0 ()
+ *  v1.0.1 ()
  * Copyright 2017 [object Object]
  * Licensed under MIT (https://github.com/tombenke/walipini-lp-content/LICENSE)
  */
