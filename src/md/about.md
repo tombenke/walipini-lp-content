@@ -1,26 +1,20 @@
-A klímaváltozás hatásainak kiküszöbölésére, a szélsőséges időjárási körülmények között,
-egyre növekvő számú, mesterséges termesztőberendezés létesítése válik szükségessé világszerte.
-
-A növényházakban, a jelenlegi irányítási rendszerekkel, jól szabályozható a hőmérséklet,
-a páratartalom, az öntözés, azonban nagyon drágák a professzionális megoldások egy kisebb,
-önellátó családi gazdaság számára.
-
-Célunk egy olyan speciális, kis költséggel megépíthető termesztő berendezés kifejlesztése,
-ami környezettudatos, alacsony energia felhasználású, emellett, olcsó.
-Egy bárki által összeszerelhető irányítási rendszerrel vezérelhető,
-így, az alacsony költségszint miatt, mindenki számára elérhető lesz a technológia.
+A földbe süllyesztett fóliasátor egy indián tradíció, amihez moduláris, professzionális irányítási rendszert tervezünk fejleszteni.
+Az eredmény egy kis költséggel, bárki által megépíthető, szinte téli fűtés nélkül is növénytermesztésre alkalmas hőmérsékletet biztosító,
+automatikusan vezérelhető termesztőberendezés. 
 
 Egy háztáji gazdaságban az üvegház mellett egyéb tevékenységek irányítása is igényelhet
 számítógépes felügyeletet (állattartás, biztonságtechnika, stb.).
 Az általunk fejlesztendő rendszer ezeket az igényeket is ki kívánja szolgálni.
-Az általunk kínált megoldások alapja ezért egy univerzális, organikusan bővíthető,
-alacsony költségű irányító-rendszer.
+A megoldásunk alapja ezért egy univerzális, organikusan bővíthető, alacsony költségű irányító-rendszer.
 
-Feladatunk egy házikerti szinten megfizethető,
-a termesztés költségeit csökkenteni képes irányító rendszer fejlesztése,
-elsődlegesen a walipini technológiához.
+A végeredmény kecsegtető, a célig vezető út rögös.
 
-Feladatunknak tekintjük, hogy az informatikai rendszer által gyűjtött adatok
-és a növénytermesztési tapasztalatok megosztásával sokak számára megismerhetővé tegyük
-a termesztési folyamatot a magvetéstől az értékesítésig.
+A 2017. tavaszán MVM Edison díjat nyert projektünk célja, hogy megosszuk az út folyamán nyert tapasztalatainkat minden érdeklődővel,
+így számukra már könnyebbé téve e rögös út bejárását. 
 
+Ezért első lépésként magyar nyelven közzétesszük a walipini leírását.
+Munkánk következő állomásaként a walipinik megtervezését segítő, szimulációs szoftwert fejlesztünk.
+Majd megépítjük saját walipininket, amiben méréseket végzünk, hogy igazolhassuk, hogy Hazánkban is érdemes walipinit építeni,
+valamint tesztelni tudjuk a kifejlesztendő, moduláris irányítási szoftverünket valós körülmények között.
+
+Tapasztalatainkat, adatainkat korlátlanul, szabadon hozzáférhetővé tesszük.

@@ -16,7 +16,7 @@
         {
             "icon": "fa-calculator",
             "heading": "Szimulátor",
-            "text": "A tervezést segítő <a href=\"https://wsimu.herokuapp.com\">on-line, interaktív szimulátor</a>."
+            "text": "A tervezést segítő <a href=\"https://wsimu.herokuapp.com\" target=\"_blank\">on-line, interaktív szimulátor</a>."
         },
         {
             "icon": "fa-signal",
@@ -30,13 +30,13 @@
         }
     ],
     "portfolio": {
-        "heading": "Olvassa el <a href=\"downloads/walipini_book.pdf\">útmutatónkat</a>, és próbálja ki <a href=\"https://wsimu.herokuapp.com\">szimulátorunkat</a>!",
-        "callToAction": "Kezdje most!"
+        "heading": "Olvasd el <a href=\"downloads/walipini_book.pdf\">útmutatónkat</a>, és próbáld ki <a href=\"https://wsimu.herokuapp.com\" target=\"_blank\">szimulátorunkat</a>!",
+        "callToAction": "Kezdd most!"
     },
     "contact" : {
-        "text": "Készen áll arra, hogy csatlakozzon projektünkhöz?<br/>Küldjön e-mailt, és kövessen minket a Facebook-on!",
-        "mail": "kertivirag@gmail.com",
-        "facebook": "https://www.facebook.com/walipini-hu/",
+        "text": "Ha érdekel ez a kaland, akkor nyomonkövetheted, lemásolhatod, szabadon felhasználhatod az eredményeit!<br/>Ha segítenél nekünk a megvalósításban, vagy csak követnéd az eseményeket, akkor csatlakozz Facebook csoportunkhoz!",
+        "mail": "walipini.hu@gmail.com",
+        "facebook": "walipini.hu",
         "phone": "(+??) ?????-???"
     }
 }
