@@ -11,7 +11,7 @@
         {
             "icon": "fa-book",
             "heading": "Útmutató",
-            "text": "<a href=\"downloads/walipini_book.pdf\">Letölthető füzet</a> walipini tervezéséről és kivitelezéséről."
+            "text": "<a href=\"downloads/walipini_book.pdf\" target=\"_blank\">Letölthető füzet</a> walipini tervezéséről és kivitelezéséről."
         },
         {
             "icon": "fa-calculator",
@@ -30,7 +30,7 @@
         }
     ],
     "portfolio": {
-        "heading": "Olvasd el <a href=\"downloads/walipini_book.pdf\">útmutatónkat</a>, és próbáld ki <a href=\"https://wsimu.herokuapp.com\" target=\"_blank\">szimulátorunkat</a>!",
+        "heading": "Olvasd el <a href=\"downloads/walipini_book.pdf\" target=\"_blank\">útmutatónkat</a>, és próbáld ki <a href=\"https://wsimu.herokuapp.com\" target=\"_blank\">szimulátorunkat</a>!",
         "callToAction": "Kezdd most!"
     },
     "contact" : {
